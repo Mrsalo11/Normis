@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title> normisi </title>
+        <link rel="stylesheet" href="style.scc" >
+    </head>
+    <body>
+        <header>
+            <nav>
+            <ul>
+    <li><a href="#homyaktapalka">Головна</a></li>
+    <li><a href="#rizz">Про нас</a></li>
+    <li><a href="#brainrot">Що ми слухаемо</a></li>
+    <li><a href="#esliprochitaltonormis">Контакти</a></li>
+  </ul>
+</nav>
+    <img src="https://picsum.photos/100/90" class="sigma">
+            <h1 id="homyaktapalka"> Клуб нормісів</h1>
+        </header>
+        <main>
+             <h2 id="rizz"> Хто ми </h2>
+            <p class="NORMAL"> <i> "Клуб Нормісів - Простота, що править світом" <br>
+Клуб Нормісів – це місце, де цінується простота та стабільність. Жодних дивних розмов чи чогось такого – тримай все у собі! Тільки нормальні речі для нормальних людей. Спілкуйся, відпочивай, живи, як тобі подобається – з тиском від суспільства та зайвого пафосу. <br>
+
+Плейлист? Найтоповіші хіти, які у всіх на слуху.
+Форма одягу? – як у всіх! <br>
+
+Приєднуйся, поки це ще надто нормально!
+</i>
+</p>
+        
+          <section> <h2 id="brainrot"> Що ми слухаемо </h2>
+          <iframe width="500px" height="300px" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1858292436&color=%239a3121&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/troll-face-775886409" title="walter white" target="_blank" style="color: #cccccc; text-decoration: none;">walter norm</a> · <a href="https://soundcloud.com/troll-face-775886409/twiddlefinger-v2" title="TWIDDLEFINGER v2 | maxprolover988" target="_blank" style="color: #cccccc; text-decoration: none;">TWIDDLENORMIS v2 | maxprolover988</a></div>
+          <iframe width="500px" height="300px" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1895160123&color=%23c47156&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-672865605" title="⋆ 𝚐𝚊𝚗𝚐𝚕𝚎 ⋆ ✶ ⋆" target="_blank" style="color: #cccccc; text-decoration: none;">⋆ 𝚐𝚊𝚗ormis ⋆ ✶ ⋆</a> · <a href="https://soundcloud.com/user-672865605/be-and-alpha" title="be an alpha 💯‼️😈🔥🔥" target="_blank" style="color: #cccccc; text-decoration: none;">be an normis 💯‼️😈🔥🔥</a></div>
+          </section>
+        </main>
+        <footer id="esliprochitaltonormis">
+         <h3> Клуб нормисів: простота править світом </h3>
+         
+         <h3> © 2024 Клуб нормисів. Всі права не захищені. | Політика скібідістов | Умови використання </h3>
+        </footer>
+    </body>
+</html>
